@@ -1,9 +1,7 @@
-It's me, Mikeal. I forked this repo from Tierney and it's awesome!
+Hi I am Aaron Hans. I forked this repo from Mikeal and it's awesome!
 
 # Usage
 Via npx:
 ```
-npx mikeal
+npx aaronhans
 ```
-
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
